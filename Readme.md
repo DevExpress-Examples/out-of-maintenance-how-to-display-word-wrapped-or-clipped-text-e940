@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WordWrapClippingAndEllipsis/Default.aspx) (VB: [Default.aspx](./VB/WordWrapClippingAndEllipsis/Default.aspx))
+* [Default.aspx.cs](./CS/WordWrapClippingAndEllipsis/Default.aspx.cs) (VB: [Default.aspx](./VB/WordWrapClippingAndEllipsis/Default.aspx))
+<!-- default file list end -->
 # How to display word-wrapped or clipped text
 
 
